@@ -1,0 +1,4 @@
+Test,Test_Statistic,p_value,Significant
+Weekend vs Weekday (t-test),5.56389500037158,3.953002038903841e-08,True
+Quarterly Variation (ANOVA),2.4104600321489693,0.06594671465909291,False
+Category Comparison (ANOVA),27.292633301269152,2.7898584948040917e-22,True
